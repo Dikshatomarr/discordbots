@@ -30,7 +30,7 @@ Client.on("messageCreate",(message) => {
         console.log(message);}
 
     else if (message.author.bot ==false && message.content=="wyd" ){
-            message.reply("pamdhia limkhai kamro IAS YAS bamno");
+            message.reply("pamdhai limkhai kamro IAS YAS bamno");
             console.log(message);}
     
     
