@@ -1,5 +1,3 @@
-//token OTkxMzExNTQwNDU0MTYyNDcz.Gsurgt.AgiW53-ue98-fPNY-gusvVpvaND3h6q6WkIT8E
-
 //invite link
 //https://discord.com/api/oauth2/authorize?client_id=991311540454162473&permissions=277025458240&scope=bot
 
@@ -41,4 +39,4 @@ Client.on("messageCreate",(message) => {
    
    //message bot can read
 
-Client.login("OTkxMzExNTQwNDU0MTYyNDcz.Gsurgt.AgiW53-ue98-fPNY-gusvVpvaND3h6q6WkIT8E");
+Client.login(" "); //add your token here
